@@ -1,2 +1,2 @@
-# .github
-Willkommen bei TheScriptList – dem geheimen Code-Cache für alles, was das Leitstellenspiel zu bieten hat! Hier teilen wir Skripte, Tips und ein bisschen Entwickler-Zauberei. Schnapp dir dein Skript und schalte den Einsatzmodus ein! Und keine Sorge, Aram aus The Blacklist hilft uns ganz sicher im Hintergrund – er hat uns schließlich versprochen, den Code zu entschlüsseln… oder zumindest die Bugs zu jagen.
+# TheScriptList 📃
+Willkommen bei TheScriptList – dem geheimen Code-Cache für alles, was das Leitstellenspiel 🚒 zu bieten hat! Hier teilen wir Skripte, Tips und ein bisschen Entwickler-Zauberei 🪄. Schnapp dir dein Skript und schalte den Einsatzmodus ein! Und keine Sorge, Aram aus The Blacklist hilft uns ganz sicher im Hintergrund – er hat uns schließlich versprochen, den Code zu entschlüsseln… oder zumindest die Bugs zu jagen. :dart:
